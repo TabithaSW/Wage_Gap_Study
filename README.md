@@ -1,5 +1,6 @@
 # Wage_Gap_Study
-My first Data Science Project! Wage Gap and Women's Rights Project 
+My first Data Science project, created in 2020, posted to GITHUB 2023.
+Focuses on the Wage Gap and Women's Rights.
 
 
 Is gender inequality still prevalent in the industrialized/developed nations? 
